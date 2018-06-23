@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">nuconnectdata</string>
+
+    <array name="Topics">
+        <item>ITA</item>
+        <item>CEA</item>
+        <item>ITB</item>
+        <item>CEB</item>
+        <item>ITA1</item>
+        <item>ITA2</item>
+        <item>ITA3</item>
+        <item>ITA4</item>
+        <item>CEA1</item>
+        <item>CEA2</item>
+        <item>CEA3</item>
+        <item>CEA4</item>
+        <item>ITB1</item>
+        <item>ITB2</item>
+        <item>ITB3</item>
+        <item>ITB4</item>
+        <item>CEB1</item>
+        <item>CEB2</item>
+        <item>CEB3</item>
+        <item>CEB4</item>
+    </array>
+
+</resources>
