@@ -10,4 +10,6 @@ Its features are:
 4) A notification can be sent to users subscribed to a particular topic from firebase console, where all the data has been stored.
 
 This app can be further extended for organisations depending on their requirements. It can help users to get a push notification according
-to the groups subscribed and help in better ommunication.
+to the groups subscribed and help in better communication.
+
+Googleservice.json file has been removed for security purposes. You need to add yours when you coonect to the firebase.
